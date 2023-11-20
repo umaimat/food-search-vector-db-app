@@ -1,0 +1,170 @@
+Food Name,Type,Regional Category,Dish Type,Course,Drink Type
+Butter Chicken,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Idli,Vegan,South Indian,Rice,Main Course/Starter,N/A
+Gulab Jamun,Vegetarian,North Indian,N/A,Dessert,N/A
+Masala Chai,Vegetarian,Pan-Indian,N/A,N/A,Hot Drink
+Samosa,Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Lassi,Vegetarian,North Indian,N/A,N/A,Cold Drink
+Chicken Biryani,Non-Vegetarian,North Indian,Rice,Main Course,N/A
+Paneer Tikka,Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Fish Curry,Non-Vegetarian,South Indian,Gravy,Main Course,N/A
+Kadhi Pakora,Vegetarian,North Indian,Gravy,Main Course,N/A
+Vada Pav,Vegetarian,West Indian,N/A,Snack,N/A
+Poha,Vegetarian,West Indian,Rice,Breakfast,N/A
+Mango Lassi,Vegetarian,North Indian,N/A,N/A,Cold Drink
+Rogan Josh,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Malai Kofta,Vegetarian,North Indian,Gravy,Main Course,N/A
+Dal Tadka,Vegetarian,North Indian,Dal,Main Course,N/A
+Jalebi,Vegetarian,North Indian,N/A,Dessert,N/A
+Aloo Gobi,Vegetarian,North Indian,Vegetable,Main Course,N/A
+Chana Masala,Vegetarian,North Indian,Gravy,Main Course,N/A
+Naan,Vegetarian,North Indian,Bread,Side Dish,N/A
+Rasgulla,Vegetarian,East Indian,N/A,Dessert,N/A
+Misal Pav,Vegetarian,West Indian,N/A,Main Course,N/A
+Palak Paneer,Vegetarian,North Indian,Gravy,Main Course,N/A
+Aloo Tikki,Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Kheer,Vegetarian,North Indian,Rice,Dessert,N/A
+Chicken Tikka,Non-Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Rava Upma,Vegetarian,South Indian,Rice,Breakfast,N/A
+Lamb Vindaloo,Non-Vegetarian,South Indian,Gravy,Main Course,N/A
+Gobi Manchurian,Vegetarian,Pan-Indian,Vegetable,Starter/Appetizer,N/A
+Bhindi Masala,Vegetarian,North Indian,Vegetable,Main Course,N/A
+Tandoori Chicken,Non-Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Bisi Bele Bath,Vegetarian,South Indian,Rice,Main Course,N/A
+Shahi Paneer,Vegetarian,North Indian,Gravy,Main Course,N/A
+Prawn Curry,Non-Vegetarian,Coastal Indian,Gravy,Main Course,N/A
+Kadai Paneer,Vegetarian,North Indian,Gravy,Main Course,N/A
+Mutton Rogan Josh,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Keema Pav,Non-Vegetarian,North Indian,Bread,Main Course,N/A
+Goan Fish Curry,Non-Vegetarian,Goan,Gravy,Main Course,N/A
+Veg Biryani,Vegetarian,Pan-Indian,Rice,Main Course,N/A
+Rava Idli,Vegetarian,South Indian,Rice,Main Course/Starter,N/A
+Dal Bati Churma,Vegetarian,West Indian,Dal,Main Course,N/A
+Chicken 65,Non-Vegetarian,South Indian,N/A,Starter/Appetizer,N/A
+Paneer Tikka Masala,Vegetarian,North Indian,Gravy,Main Course,N/A
+Egg Curry,Non-Vegetarian,Pan-Indian,Gravy,Main Course,N/A
+Bombay Duck Fry,Non-Vegetarian,West Indian,N/A,Starter/Appetizer,N/A
+Bhatura,Vegetarian,North Indian,Bread,Side Dish,N/A
+Kulfi,Vegetarian,North Indian,N/A,Dessert,N/A
+Puliyodarai,Vegetarian,South Indian,Rice,Main Course,N/A
+Masala Dosa,Vegetarian,South Indian,Rice,Main Course/N/A,N/A
+Chicken Chettinad,Non-Vegetarian,South Indian,Gravy,Main Course,N/A
+Aloo Mutter,Vegetarian,North Indian,Gravy,Main Course,N/A
+Kachori,Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Neer Dosa,Vegetarian,South Indian,Rice,Main Course,N/A
+Paneer Bhurji,Vegetarian,North Indian,N/A,Main Course,N/A
+Kaju Katli,Vegetarian,North Indian,N/A,Dessert,N/A
+Andhra Chicken Curry,Non-Vegetarian,South Indian,Gravy,Main Course,N/A
+Vegetable Pakora,Vegetarian,Pan-Indian,N/A,Starter/Appetizer,N/A
+Besan Ladoo,Vegetarian,North Indian,N/A,Dessert,N/A
+Chicken Kolhapuri,Non-Vegetarian,West Indian,Gravy,Main Course,N/A
+Tandoori Roti,Vegetarian,North Indian,Bread,Side Dish,N/A
+Pav Bhaji Masala,Vegetarian,West Indian,Mixed,Main Course,N/A
+Malabar Parotta,Vegetarian,South Indian,Bread,Side Dish,N/A
+Lamb Biryani,Non-Vegetarian,North Indian,Rice,Main Course,N/A
+Sarson da Saag,Vegetarian,North Indian,Vegetable,Main Course,N/A
+Buttermilk,Cold Beverage,Pan-Indian,N/A,N/A,Cold Drink
+Carrot Halwa,Vegetarian,North Indian,N/A,Dessert,N/A
+Vegetable Kurma,Vegetarian,South Indian,Gravy,Main Course,N/A
+Goan Vindaloo,Non-Vegetarian,Goan,Gravy,Main Course,N/A
+Paniyaram,Vegetarian,South Indian,Rice,Starter/Appetizer,N/A
+Chicken Tikka Masala,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Shrikhand,Vegetarian,West Indian,N/A,Dessert,N/A
+Bhindi Fry,Vegetarian,North Indian,Vegetable,Main Course,N/A
+Kulcha,Vegetarian,North Indian,Bread,Side Dish,N/A
+Mango Pickle,Vegetarian,Pan-Indian,N/A,Side Dish,N/A
+Mysore Pak,Vegetarian,South Indian,N/A,Dessert,N/A
+Paneer Pakora,Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Chapati,Vegetarian,North Indian,Bread,Side Dish,N/A
+Mango Shrikhand,Vegetarian,West Indian,N/A,Dessert,N/A
+Hyderabadi Biryani,Non-Vegetarian,South Indian,Rice,Main Course,N/A
+Paneer Lababdar,Vegetarian,North Indian,Gravy,Main Course,N/A
+Kachumber Salad,Vegetarian,Pan-Indian,N/A,Side Dish,N/A
+Mughlai Chicken,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Gajar Ka Halwa,Vegetarian,North Indian,N/A,Dessert,N/A
+Lemon Rice,Vegetarian,South Indian,Rice,Main Course,N/A
+Chicken Korma,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Ghee Rice,Vegetarian,South Indian,Rice,Main Course,N/A
+Masoor Dal,Vegetarian,North Indian,Dal,Main Course,N/A
+Vegetable Samosa,Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Bengali Fish Curry,Non-Vegetarian,East Indian,Gravy,Main Course,N/A
+Sooji Halwa,Vegetarian,North Indian,N/A,Dessert,N/A
+Paneer Jalfrezi,Vegetarian,North Indian,Gravy,Main Course,N/A
+Mutter Paneer,Vegetarian,North Indian,Gravy,Main Course,N/A
+Mango Kulfi,Vegetarian,North Indian,N/A,Dessert,N/A
+Methi Thepla,Vegetarian,West Indian,Bread,Side Dish,N/A
+Beef Vindaloo,Non-Vegetarian,Goan,Gravy,Main Course,N/A
+Masala Vada,Vegetarian,South Indian,N/A,Starter/Appetizer,N/A
+Sweet Lassi,Vegetarian,North Indian,N/A,N/A,Cold Drink
+Bhel Puri,Vegetarian,West Indian,N/A,Snack,N/A
+Murgh Musallam,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Tandoori Roti,Vegetarian,North Indian,Bread,Side Dish,N/A
+Kerala Parotta,Vegetarian,South Indian,Bread,Side Dish,N/A
+Vegetable Manchurian,Vegetarian,Indo-Chinese,N/A,Starter/Appetizer,N/A
+Chicken Xacuti,Non-Vegetarian,Goan,Gravy,Main Course,N/A
+Rasam,Vegetarian,South Indian,Soup,Starter/N/A,N/A
+Egg Biryani,Non-Vegetarian,Pan-Indian,Rice,Main Course,N/A
+Tomato Soup,Vegetarian,Pan-Indian,Soup,Starter,N/A
+Kerala Beef Fry,Non-Vegetarian,South Indian,Dry,Starter/Appetizer,N/A
+Onion Pakora,Vegetarian,Pan-Indian,N/A,Starter/Appetizer,N/A
+Vegetable Biryani,Vegetarian,Pan-Indian,Rice,Main Course,N/A
+Chicken Cafreal,Non-Vegetarian,Goan,Dry,Starter/Appetizer,N/A
+Aamras,Vegetarian,West Indian,N/A,Dessert,N/A
+Paneer Makhani,Vegetarian,North Indian,Gravy,Main Course,N/A
+Dal Palak,Vegetarian,North Indian,Dal,Main Course,N/A
+Chicken Vindaloo,Non-Vegetarian,Goan,Gravy,Main Course,N/A
+Alu Posto,Vegetarian,East Indian,Vegetable,Main Course,N/A
+Kadala Curry,Vegetarian,South Indian,Gravy,Main Course,N/A
+Masala Chai,Vegetarian,Pan-Indian,N/A,N/A,Hot Drink
+Kashmiri Pulao,Vegetarian,North Indian,Rice,Main Course,N/A
+Lamb Saag,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Malpua,Vegetarian,North Indian,N/A,Dessert,N/A
+Papdi Chaat,Vegetarian,North Indian,N/A,Snack,N/A
+Chicken Do Pyaza,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Pesarattu,Vegetarian,South Indian,Rice,Main Course,N/A
+Rabri,Vegetarian,North Indian,N/A,Dessert,N/A
+Chicken Biryani,Non-Vegetarian,South Indian,Rice,Main Course,N/A
+Navratan Korma,Vegetarian,North Indian,Gravy,Main Course,N/A
+Fish Fry,Non-Vegetarian,Pan-Indian,N/A,Starter/Appetizer,N/A
+Jeera Rice,Vegetarian,North Indian,Rice,Main Course,N/A
+Goan Prawn Curry,Non-Vegetarian,Goan,Gravy,Main Course,N/A
+Masoor Dal Fry,Vegetarian,North Indian,Dal,Main Course,N/A
+Chicken Masala,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Paneer Do Pyaza,Vegetarian,North Indian,Gravy,Main Course,N/A
+Aloo Posto,Vegetarian,East Indian,Vegetable,Main Course,N/A
+Shami Kebab,Non-Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Rasmalai,Vegetarian,East Indian,N/A,Dessert,N/A
+Chicken Saag,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Aam Panna,Cold Beverage,Pan-Indian,N/A,N/A,Cold Drink
+Sev Puri,Vegetarian,West Indian,N/A,Snack,N/A
+Moong Dal Halwa,Vegetarian,North Indian,N/A,Dessert,N/A
+Paneer Kulcha,Vegetarian,North Indian,Bread,Side Dish,N/A
+Kashmiri Rogan Josh,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Vada Sambar,Vegetarian,South Indian,Rice,Main Course/Starter,N/A
+Chicken Curry,Non-Vegetarian,Pan-Indian,Gravy,Main Course,N/A
+Kerala Chicken Stew,Non-Vegetarian,South Indian,Gravy,Main Course,N/A
+Moong Dal Khichdi,Vegetarian,Pan-Indian,Rice,Main Course,N/A
+Mutton Biryani,Non-Vegetarian,North Indian,Rice,Main Course,N/A
+Phirni,Vegetarian,North Indian,Rice,Dessert,N/A
+Chicken 65 Biryani,Non-Vegetarian,South Indian,Rice,Main Course,N/A
+Paneer Tikka Roll,Vegetarian,North Indian,Bread,Snack,N/A
+Mango Rasgulla,Vegetarian,East Indian,N/A,Dessert,N/A
+Egg Masala Curry,Non-Vegetarian,Pan-Indian,Gravy,Main Course,N/A
+Tandoori Paneer,Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Lassi,Cold Beverage,North Indian,N/A,N/A,Cold Drink
+Kadai Chicken,Non-Vegetarian,North Indian,Gravy,Main Course,N/A
+Chicken Tikka Roll,Non-Vegetarian,North Indian,Bread,Snack,N/A
+Chana Dal,Vegetarian,North Indian,Dal,Main Course,N/A
+Chicken Dum Biryani,Non-Vegetarian,South Indian,Rice,Main Course,N/A
+Aloo Jeera,Vegetarian,North Indian,Vegetable,Main Course,N/A
+Butter Naan,Vegetarian,North Indian,Bread,Side Dish,N/A
+Chicken Tandoori,Non-Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Kulcha Naan,Vegetarian,North Indian,Bread,Side Dish,N/A
+Mysore Masala Dosa,Vegetarian,South Indian,Rice,Main Course,N/A
+Fish Tandoori,Non-Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Paneer Butter Masala,Vegetarian,North Indian,Gravy,Main Course,N/A
+Lamb Kebab,Non-Vegetarian,North Indian,N/A,Starter/Appetizer,N/A
+Aloo Tikki Chaat,Vegetarian,North Indian,N/A,Snack,N/A
+Egg Bhurji,Non-Vegetarian,Pan-Indian,N/A,Main Course,N/A
+Vegetable Soup,Vegetarian,Pan-Indian,Soup,Starter,N/A
+Chicken Kebab,Non-Vegetarian,North Indian,N/A,Starter/App
